@@ -15,8 +15,7 @@
   ~ limitations under the License
   -->
 <resources>
-    <style name="DialtactsTheme"
-           parent="android:Theme.Material.DayNight">
+    <style name="DialtactsTheme" parent="Theme.AppCompat.Light">
         <item name="android:textColorPrimary">@color/dialtacts_primary_text_color</item>
         <item name="android:textColorSecondary">@color/dialtacts_secondary_text_color</item>
 
